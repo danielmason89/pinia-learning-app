@@ -1,6 +1,6 @@
 # pinia-practise
 
-This template should help get you started developing with Vue 3 in Vite.
+These instructions should help get you started with running the app.
 
 ## Recommended IDE Setup
 
