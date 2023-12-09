@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "make supper",
+      "isFav": true
+    },
+    {
+      "id": 4,
+      "title": "make bed",
+      "isFav": true
+    },
+    {
+      "id": 5,
+      "title": "wake up early",
+      "isFav": true
+    },
+    {
+      "id": 6,
+      "title": "take a shower",
+      "isFav": false
+    },
+    {
+      "id": 7,
+      "title": "exercise today",
+      "isFav": false
+    },
+    {
+      "id": 10,
+      "title": "have fun making a pinia store",
+      "isFav": false
+    }
+  ]
+}
